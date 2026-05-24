@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Precious
+A passionate developer from Nigeria
+🔭 I’m currently working on [A couple of ML, DL and Gen ai projectsoj](Available on my github account)
 
-<!--
-**Fola-subomi/Fola-subomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Hugging Face Transformers, Google's Advanced Generativeai course
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on [AIOnlineSafety](Available on my github account)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects are available at github.com/Fola-subomi
+
+💬 Ask me about Using sensors to make machines “think”
+
+📫 How to reach me preciousakogun4@gmail.com
+
+📄 Know about my experiences https://drive.google.com/file/d/178_l4fUx0uuZaV_AfGZUuykZ-tcb5CN3/view?usp=drive_link
+
+⚡ Fun fact I think I'm quite funny and yeah, I’ve built robots and smart systems that interact with both nature and machines — from monitoring bat echolocation to automating cow milking!
+
+Connect with me!
