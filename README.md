@@ -2,7 +2,7 @@
 A passionate developer from Nigeria
 🔭 I’m currently working on [A couple of ML, DL and Gen ai projectsoj](Available on my github account)
 
-👯 I’m looking to collaborate on [AIOnlineSafety](Available on my github account)
+👯 I’m looking to collaborate on [AI related projects](Available on my github account)
 
 👨‍💻 All of my projects are available at github.com/Fola-subomi
 
