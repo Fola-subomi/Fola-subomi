@@ -12,6 +12,6 @@ A passionate developer from Nigeria
 
 📄 Know about my experiences https://drive.google.com/file/d/178_l4fUx0uuZaV_AfGZUuykZ-tcb5CN3/view?usp=drive_link
 
-⚡ Fun fact I think I'm quite funny and yeah, I’ve built robots and smart systems that interact with both nature and machines — from monitoring bat echolocation to automating cow milking!
+⚡ Fun fact I think I'm quite funny and yeah, I’ve built robots and smart systems that interact with both nature and machines. From monitoring bat echolocation to automating cow milking!
 
 Connect with me!
